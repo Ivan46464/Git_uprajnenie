@@ -1,2 +1,2 @@
 print("Hello World1")
-print("Mangal")
+print("Steli e malko kote")
